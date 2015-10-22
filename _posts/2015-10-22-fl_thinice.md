@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-22T15:19:56.587Z'
-dateModified: '2015-10-22T15:19:23.704Z'
-title: FL_ThinIce
+datePublished: '2015-10-22T17:05:26.132Z'
+dateModified: '2015-10-22T17:05:19.305Z'
+title: 'Almost ready, almost flying to the last drop'
+sourcePath: _posts/2015-10-22-fl_thinice.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-22-fl_thinice.md
-published: true
 url: fl_thinice/index.html
 _type: Article
 
 ---
-# FL\_ThinIce
+# Almost ready, almost flying to the last drop
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e40971a7-10a3-4074-b7c6-fcd4fcbca72a.JPG)
