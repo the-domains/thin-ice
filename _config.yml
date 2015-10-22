@@ -1,0 +1,23 @@
+name: Thin Ice
+favicon: null
+layout_spectrum: 0.8641231509391218
+typography_spectrum: 0.7866199982818216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.30288311606273055
+  lightness: 0.2742653568275273
+  saturation: 0.27496688021346927
+  rhythmicContrast: 0.1626358493231237
+purpose: []
