@@ -4,8 +4,15 @@
         <description><![CDATA[50drops makes you forget]]></description>
         <link>https://thegrid.ai/thin-ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 17:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 17:03:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thin-ice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Someone asks me for a quiet room in a quiet Alentejo]]></title>
+            <description><![CDATA[<article><h1>Someone asks me for a quiet room in a quiet Alentejo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc3a529-d061-4f93-8f49-e924cfe16e83.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thin-ice/someone-asks-me-for-a-quiet-room-in-a-quiet-alentejo/index.html</link>
+            <guid isPermaLink="false">8c9630eb-badc-488e-a881-5c18c624eff8</guid>
+            <pubDate>Thu, 22 Oct 2015 17:02:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Refugees, Madrid & the Moon]]></title>
             <description><![CDATA[<article><h1>Refugees, Madrid & the Moon</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45e57cc6-3d35-4e24-91a9-c88d3d619eeb.JPG"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/thin-ice/fl_thinice/index.html</link>
             <guid isPermaLink="false">d35e376b-95e5-4161-b1cc-f2badc4e980f</guid>
             <pubDate>Thu, 22 Oct 2015 15:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10:35 in the AM]]></title>
-            <description><![CDATA[<article><h1>10:35 in the AM</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc0fee63-23a9-4734-a4aa-b0f5002ccb1c.JPG"></article>]]></description>
-            <link>https://thegrid.ai/thin-ice/1035-in-the-am/index.html</link>
-            <guid isPermaLink="false">f3bde198-9138-4bd8-9c9d-5c6d5fe506da</guid>
-            <pubDate>Thu, 22 Oct 2015 09:39:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
