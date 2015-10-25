@@ -4,8 +4,15 @@
         <description><![CDATA[50 drops of sweetness]]></description>
         <link>https://thegrid.ai/thin-ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 10:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2015 17:16:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thin-ice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just making sure Franco is still dead]]></title>
+            <description><![CDATA[<article><h1>Just making sure Franco is still dead</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d94575-132e-409d-bf4c-4d70a4d9b17b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thin-ice/just-making-sure-franco-is-still-dead/index.html</link>
+            <guid isPermaLink="false">8a7ba252-2dd2-4785-9eeb-b67b3082c76f</guid>
+            <pubDate>Sun, 25 Oct 2015 17:15:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[xixi line]]></title>
             <description><![CDATA[<article><h1>xixi line</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1e8f409-b91c-48a1-84c0-84570aba5963.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thin-ice/almost-there/index.html</link>
             <guid isPermaLink="false">76522a3b-e4bf-4cfd-b31c-674854eb4200</guid>
             <pubDate>Thu, 22 Oct 2015 15:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Almost ready, almost flying to the last drop]]></title>
-            <description><![CDATA[<article><h1>Almost ready, almost flying to the last drop</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e40971a7-10a3-4074-b7c6-fcd4fcbca72a.JPG"></article>]]></description>
-            <link>https://thegrid.ai/thin-ice/fl_thinice/index.html</link>
-            <guid isPermaLink="false">d35e376b-95e5-4161-b1cc-f2badc4e980f</guid>
-            <pubDate>Thu, 22 Oct 2015 17:05:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
