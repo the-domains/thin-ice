@@ -4,8 +4,15 @@
         <description><![CDATA[50 drops of sweetness]]></description>
         <link>https://thegrid.ai/thin-ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Oct 2015 13:54:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 21:26:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thin-ice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lovely super-market tour at the start of the evening (barrinhas tour)]]></title>
+            <description><![CDATA[<article><h1>Lovely super-market tour at the start of the evening (barrinhas tour)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a883a5b-3e25-4ef8-82a4-422966d6cdd9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thin-ice/lovely-super-market-tour-at-the-start-of-the-evening-barrin/index.html</link>
+            <guid isPermaLink="false">f8e0d318-52c3-4df2-aa44-4cc36c53cede</guid>
+            <pubDate>Tue, 27 Oct 2015 21:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Low energy & jesus]]></title>
             <description><![CDATA[<article><h1>Low energy & jesus</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b35a055a-c1a8-4bdb-b200-83ad07233871.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thin-ice/looking-out-in-the-same-general-direction-the-same-general/index.html</link>
             <guid isPermaLink="false">4c8798b1-4ab1-4940-8893-9a770ee85bc6</guid>
             <pubDate>Thu, 22 Oct 2015 17:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Someone asks me for a quiet room in a quiet Alentejo]]></title>
-            <description><![CDATA[<article><h1>Someone asks me for a quiet room in a quiet Alentejo</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc3a529-d061-4f93-8f49-e924cfe16e83.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thin-ice/someone-asks-me-for-a-quiet-room-in-a-quiet-alentejo/index.html</link>
-            <guid isPermaLink="false">8c9630eb-badc-488e-a881-5c18c624eff8</guid>
-            <pubDate>Thu, 22 Oct 2015 17:02:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
