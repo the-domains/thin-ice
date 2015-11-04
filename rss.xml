@@ -4,8 +4,15 @@
         <description><![CDATA[50 drops of sweetness]]></description>
         <link>https://thegrid.ai/thin-ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 18:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 21:49:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thin-ice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is not her. This is symbolic. This is the new/old me:]]></title>
+            <description><![CDATA[<article><h1>This is not her. This is symbolic. This is the new/old me:</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5469e8d-9364-438c-a1d0-454ae89b1f01.JPG"></article>]]></description>
+            <link>https://thegrid.ai/thin-ice/this-is-not-her-this-is-symbolic-this-is-the-newithold-me/index.html</link>
+            <guid isPermaLink="false">1512ef66-726c-493d-a985-b7c589b7ddf1</guid>
+            <pubDate>Wed, 04 Nov 2015 21:48:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tried to make a dear friend fall in love with herself because she was lost. But she made me love myself again instead. Where did I fail? ]]></title>
             <description><![CDATA[<article><h1>Tried to make a dear friend fall in love with herself because she was lost. But she made me love myself again instead. Where did I fail? </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efd81598-f356-4731-b165-74cf213d9672.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thin-ice/yes-i-do/index.html</link>
             <guid isPermaLink="false">8e9a443b-3882-4288-be62-b839b6fd7b50</guid>
             <pubDate>Fri, 23 Oct 2015 20:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transfers all morning]]></title>
-            <description><![CDATA[<article><h1>Transfers all morning</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23f767a5-c160-4092-b5aa-7763c6bf0182.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thin-ice/transfers-all-morning/index.html</link>
-            <guid isPermaLink="false">7156efaa-1730-45ac-a76e-8b7d888b7dd4</guid>
-            <pubDate>Fri, 23 Oct 2015 13:15:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
