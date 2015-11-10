@@ -4,8 +4,15 @@
         <description><![CDATA[50 drops of sweetness]]></description>
         <link>https://thegrid.ai/thin-ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 09:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 14:15:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thin-ice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We're the same. Whether we realize it or not :)]]></title>
+            <description><![CDATA[<article><h1>We're the same. Whether we realize it or not :)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65c334c1-4c50-4e07-bd03-03652cde9f4f.JPG"></article>]]></description>
+            <link>https://thegrid.ai/thin-ice/were-the-same-whether-we-realize-it-or-not/index.html</link>
+            <guid isPermaLink="false">22c2abb9-43f5-453a-a4e7-7c30fd2bf5ff</guid>
+            <pubDate>Tue, 10 Nov 2015 14:14:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is London. Never know where I am lately]]></title>
             <description><![CDATA[<article><h1>This is London. Never know where I am lately</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dba508cf-6274-4d09-8799-40f5a725d81e.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thin-ice/just-making-sure-franco-is-still-dead/index.html</link>
             <guid isPermaLink="false">8a7ba252-2dd2-4785-9eeb-b67b3082c76f</guid>
             <pubDate>Sun, 25 Oct 2015 17:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[xixi line]]></title>
-            <description><![CDATA[<article><h1>xixi line</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1e8f409-b91c-48a1-84c0-84570aba5963.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thin-ice/xixi-line/index.html</link>
-            <guid isPermaLink="false">f29eb9b5-25cc-44fe-a6b6-3c85a6afabf3</guid>
-            <pubDate>Sat, 24 Oct 2015 10:11:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
