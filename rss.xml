@@ -4,8 +4,15 @@
         <description><![CDATA[50 drops of sweetness]]></description>
         <link>https://thegrid.ai/thin-ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 22:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 09:58:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thin-ice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is London. Never know where I am lately]]></title>
+            <description><![CDATA[<article><h1>This is London. Never know where I am lately</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dba508cf-6274-4d09-8799-40f5a725d81e.JPG"></article>]]></description>
+            <link>https://thegrid.ai/thin-ice/this-is-london-never-know-where-i-am-lately/index.html</link>
+            <guid isPermaLink="false">15ca977f-5be3-4b20-a4da-12d0e8cc876a</guid>
+            <pubDate>Tue, 10 Nov 2015 09:57:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[so tired of these fucking papers and bills and expenses. and right after this more transfers, just what I need]]></title>
             <description><![CDATA[<article><h1>so tired of these fucking papers and bills and expenses. and right after this more transfers, just what I need</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5623b1c2-47c0-4985-a2a7-256d38815af9.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thin-ice/xixi-line/index.html</link>
             <guid isPermaLink="false">f29eb9b5-25cc-44fe-a6b6-3c85a6afabf3</guid>
             <pubDate>Sat, 24 Oct 2015 10:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cutting my sleep just because of how tired I am. Low energy, they say]]></title>
-            <description><![CDATA[<article><h1>Cutting my sleep just because of how tired I am. Low energy, they say</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89c13c64-d6fa-4e4f-aedf-ae1a69308391.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thin-ice/cutting-my-sleep-just-because-of-how-tired-i-am-low-energy/index.html</link>
-            <guid isPermaLink="false">6ae11a5c-9954-45e6-b73c-038d440cc26a</guid>
-            <pubDate>Fri, 23 Oct 2015 20:50:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
