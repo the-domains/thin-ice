@@ -4,8 +4,15 @@
         <description><![CDATA[50 drops of sweetness]]></description>
         <link>https://thegrid.ai/thin-ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 14:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 14:21:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thin-ice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Déjà vu into my own life]]></title>
+            <description><![CDATA[<article><h1>Another Déjà vu into my own life</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b420b050-2cec-4c12-98a0-9ee0f3d37fc2.JPG"></article>]]></description>
+            <link>https://thegrid.ai/thin-ice/another-deja-vu-into-my-own-life/index.html</link>
+            <guid isPermaLink="false">83c02735-a378-494b-83ec-0f222bb66f0e</guid>
+            <pubDate>Tue, 10 Nov 2015 14:21:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We're the same. Whether we realize it or not :)]]></title>
             <description><![CDATA[<article><h1>We're the same. Whether we realize it or not :)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65c334c1-4c50-4e07-bd03-03652cde9f4f.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thin-ice/saffron-comes-from-this-flower/index.html</link>
             <guid isPermaLink="false">55d1f367-435c-47cc-94a4-6dc86c50ef7d</guid>
             <pubDate>Mon, 26 Oct 2015 20:12:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just making sure Franco is still dead]]></title>
-            <description><![CDATA[<article><h1>Just making sure Franco is still dead</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d94575-132e-409d-bf4c-4d70a4d9b17b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thin-ice/just-making-sure-franco-is-still-dead/index.html</link>
-            <guid isPermaLink="false">8a7ba252-2dd2-4785-9eeb-b67b3082c76f</guid>
-            <pubDate>Sun, 25 Oct 2015 17:15:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
