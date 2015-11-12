@@ -4,8 +4,15 @@
         <description><![CDATA[50 drops of sweetness]]></description>
         <link>https://thegrid.ai/thin-ice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 19:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 19:29:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thin-ice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life & Wine]]></title>
+            <description><![CDATA[<article><h1>Life & Wine</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36aef407-f6f4-4b85-a418-a5800457b8f5.JPG"></article>]]></description>
+            <link>https://thegrid.ai/thin-ice/life-and-wine/index.html</link>
+            <guid isPermaLink="false">bd39ce77-38f7-4ae4-9c0c-71d5917ace24</guid>
+            <pubDate>Thu, 12 Nov 2015 19:28:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Accidental poetry]]></title>
             <description><![CDATA[<article><h1>Accidental poetry</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b25996b-e4f5-44ec-9947-af82315241a8.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thin-ice/lovely-super-market-tour-at-the-start-of-the-evening-barrin/index.html</link>
             <guid isPermaLink="false">f8e0d318-52c3-4df2-aa44-4cc36c53cede</guid>
             <pubDate>Tue, 27 Oct 2015 21:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Low energy & jesus]]></title>
-            <description><![CDATA[<article><h1>Low energy & jesus</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b35a055a-c1a8-4bdb-b200-83ad07233871.JPG"></article>]]></description>
-            <link>https://thegrid.ai/thin-ice/low-energy-and-jesus/index.html</link>
-            <guid isPermaLink="false">cb620f10-9a59-4974-b6d0-846473ae06f1</guid>
-            <pubDate>Tue, 27 Oct 2015 13:53:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
